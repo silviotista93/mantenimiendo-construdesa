@@ -84,7 +84,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-10 col-md-offset-1">
-                    <img src="/img/logo_construdesa.png" style="width: 60%; padding-bottom: 35px;" alt="">
+                    <img src="/img/logo_construdesa.png" style="width: 62%; padding-bottom: 35px;" alt="">
                     <h1 class="animate"><a href="#" title="Rosa - Responsive Coming Soon Template">¡PROXIMAMENTE!</a>
                     </h1>
                     <h2 class="animate"><a href="#" title="Rosa - Responsive Coming Soon Template">NUESTRO SITIO WEB ESTA EN CONSTRUCCIÓN</a></h2>
